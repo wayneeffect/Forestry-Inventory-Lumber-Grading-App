@@ -1,0 +1,6 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^11.0.0  # Captures GPS coordinates
+  image_picker: ^1.1.0 # Accesses the smartphone camera
+  uuid: ^4.3.3         # Generates unique Record_IDs in the field
